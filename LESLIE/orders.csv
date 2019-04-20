@@ -1,0 +1,56 @@
+s_city_id,s_city,s_lat,s_lon,s_country,e_city_id,e_City,e_lat,e_lon,e_country
+1,"Burlington, VT",44.4759,-73.2121,USA,2,"Worcester, MA",42.2625,-71.8004,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,3,"Seattle, WA",47.6015,-122.3313,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,4,"Winnetka, CA",34.2131,-118.5711,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,5,"Windermere, FL",28.4949,-81.5343,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,6,Tangerhütte,52.4337,11.8066,DEU
+1,"Burlington, VT",44.4759,-73.2121,USA,7,"Whittier, CA",33.9749,-118.0353,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,8,"Walled Lake, MI",42.538,-83.4821,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,9,"Virginia Beach, VA",36.8516,-75.9807,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,10,"Taree, New South Wales",-31.9135,152.4588,AUS
+1,"Burlington, VT",44.4759,-73.2121,USA,11,"Springfield, VA",38.7883,-77.1868,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,12,"Sparks, NV",39.5331,-119.7564,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,13,"South Amboy, NJ",40.4779,-74.2933,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,14,"Shelburne, VT",44.3803,-73.2276,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,15,"Scranton, PA",41.4077,-75.6655,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,16,"Quincy, IL",39.9329,-91.4076,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,17,"Providence, RI",41.8237,-71.4204,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,18,"Overbrook, KS",38.7813,-95.5573,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,19,"Orlando, FL",28.5326,-81.3867,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,20,"Odessa, TX",31.8431,-102.3671,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,21,"Oakland, CA",37.8038,-122.2733,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,22,Northampton,52.2383,-0.9022,GBR
+1,"Burlington, VT",44.4759,-73.2121,USA,23,"New Hyde Park, NY",40.7349,-73.6883,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,24,"Myrtle Point, OR",43.0703,-124.1413,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,25,"Mount Juliet, TN",36.1999,-86.518,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,26,Milton Keynes,52.0423,-0.7628,GBR
+1,"Burlington, VT",44.4759,-73.2121,USA,27,"Medford, MA",42.4183,-71.1083,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,28,"Mechanicsville, VA",37.6172,-77.3516,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,29,"Manchester, NH",42.9941,-71.4509,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,30,"Liverpool, NY",43.1075,-76.2178,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,31,"Lebanon, IL",40.0473,-86.484,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,32,"Lawrence, KY",38.9711,-95.2421,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,33,"Houston, TX",29.7703,-95.3709,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,34,Hitzacker,53.1516,11.0436,DEU
+1,"Burlington, VT",44.4759,-73.2121,USA,35,"Hanson, MA",42.0757,-70.8805,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,36,"Foxboro, MA",42.0653,-71.2481,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,37,"Falls Church, VA",38.8824,-77.1727,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,38,"Elmwood Park, NJ",40.9042,-74.1197,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,39,Düsseldorf,51.2365,6.7593,DEU
+1,"Burlington, VT",44.4759,-73.2121,USA,40,"Cumberland, RI",41.9675,-71.4342,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,41,"Colorado Springs, CO",38.8316,-104.8212,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,42,"Chicago, IL",41.8761,-87.6272,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,43,"Cartersville, GA",34.1635,-84.7969,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,44,Brunswick West,-37.7633,144.9424,AUS
+1,"Burlington, VT",44.4759,-73.2121,USA,45,Bruchsal,49.1239,8.5995,DEU
+1,"Burlington, VT",44.4759,-73.2121,USA,46,"Brighton, MA",42.3505,-71.1575,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,47,"Braintree, MA",42.2224,-70.9996,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,48,"Bothell, WA",47.7597,-122.2069,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,49,"Boise, ID",43.6161,-116.203,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,50,"Berkeley, CA",37.8707,-122.2726,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,51,"Austin, TX",30.2697,-97.7467,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,52,"Astoria, NY",40.7719,-73.9304,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,53,"Acton, MA",42.4847,-71.4335,USA
+1,"Burlington, VT",44.4759,-73.2121,USA,54,Tokyo,35.6895,139.6917,Japan
+1,"Burlington, VT",44.4759,-73.2121,USA,55,Mexico City,19.4326,-99.1332,Mexico
+1,"Burlington, VT",44.4759,-73.2121,USA,56,Rio de Janeiro,-22.7527,-42.8648,Brazil
